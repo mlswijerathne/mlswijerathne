@@ -1,11 +1,4 @@
 <h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> I'm Lakshitha Wijerathne</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=C+%26+Java+Developer;Web+Developer;Student;Always+learning+new+things" alt="Typing SVG" />
-</p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mlswijerathne&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
 
 ---
 
@@ -51,13 +44,3 @@ I'm an undergraduate student passionate about programming and web development. I
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mlswijerathne&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </p>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mlswijerathne/mlswijerathne/output/snake.svg" alt="Snake Animation" />
-</div>
-
----
-
-<div align="center">
-  <i>🤝 Let's connect and collaborate! Open to new opportunities and interesting projects.</i>
-</div>
