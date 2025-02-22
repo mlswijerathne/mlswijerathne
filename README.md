@@ -3,11 +3,11 @@
 ---
 
 ### 👨‍💻 About Me
-I'm an undergraduate student passionate about programming, Moble Application Development and web development. I am currently focused on learning **C#** and **React.js**. Feel free to reach out if you have any questions or want to discuss programming!
+I'm an undergraduate student passionate about programming, Moble Application Development and web development. I am currently focused on learning **Dart** and **Firebase**. Feel free to reach out if you have any questions or want to discuss programming!
 
 ### 🚀 What I'm up to
 - 🌱 Currently learning **Mobile Application Development using Fultter**
-- 💬 Ask me about **C**, **C#**, **ASP .NET, **React.js**, **Java**, or anything related to programming
+- 💬 Ask me about **C**, **C#**, **ASP .NET**, **React.js**, **Java**, or anything related to programming
 - 📫 How to reach me: [mlswijerathne@gmail.com](mailto:mlswijerathne@gmail.com)
 - ⚡ Fun fact: You can call me **Lakshitha**
 
