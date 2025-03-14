@@ -5,6 +5,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00C9FF&center=true&vCenter=true&width=500&lines=👨‍💻+Software+Developer;🚀+Mobile+%26+Web+Development;📱+Flutter+%26+Firebase+Learner;🔥+Always+learning+new+things" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mlswijerathne&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 ---
 
 ## 🚀 About Me  
@@ -32,6 +36,13 @@
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mlswijerathne&layout=compact&theme=transparent&hide_border=true" width="49%" />
 </div>
+
+---
+
+## 🔥 Recent Projects  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mlswijerathne&repo=auction-management)](https://github.com/mlswijerathne/auction-management)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mlswijerathne&repo=smart-plate)](https://github.com/mlswijerathne/smart-plate)
 
 ---
 
