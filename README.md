@@ -1,67 +1,46 @@
-# 👋 Hi there, I'm Lakshitha Wijerathne  
-
-[![Profile Views](https://komarev.com/ghpvc/?username=mlswijerathne&label=Profile%20Views&color=brightgreen&style=flat)](https://github.com/mlswijerathne)
+<h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> I'm Lakshitha Wijerathne</h1>
 
 ---
 
-## 📊 GitHub Analytics  
+### 👨‍💻 About Me
+I'm an undergraduate student passionate about programming, Moble Application Development and web development. I am currently focused on learning **Dart** and **Firebase**. Feel free to reach out if you have any questions or want to discuss programming!
 
+### 🚀 What I'm up to
+- 🌱 Currently learning **Mobile Application Development using Fultter**
+- 💬 Ask me about **C**, **C#**, **ASP .NET**, **React.js**, **Java**, or anything related to programming
+- 📫 How to reach me: [mlswijerathne@gmail.com](mailto:mlswijerathne@gmail.com)
+- ⚡ Fun fact: You can call me **Lakshitha**
+
+### 🤝 Connect with me
+<p align="left">
+  <a href="https://www.linkedin.com/in/lakshitha-wijerathne/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://fb.com/lakshitha.wijerathne" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://instagram.com/_lakshithaa" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+### 🛠️ Languages and Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,java,cs,html,css,js,php,mysql" alt="Skills" />
+</p>
+
+### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mlswijerathne&theme=transparent&hide_border=true" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mlswijerathne&theme=github_dark" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mlswijerathne&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mlswijerathne&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mlswijerathne&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
----
-
-## 🔥 Recent Projects (Auto-Updated)  
-
-<!-- GitHub Action Will Auto-Update This Section -->
-<!-- START_SECTION:recent_repos -->
-<!-- END_SECTION:recent_repos -->
-
----
-
-## 🚀 Top Languages  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mlswijerathne&langs_count=6&layout=compact&theme=github_dark)](https://github.com/mlswijerathne)
-
----
-
-## 📂 Manually Listed Projects  
-[![Auction Management System](https://img.shields.io/badge/GitHub-Auction_Management_System-blue?style=for-the-badge&logo=github)](https://github.com/mlswijerathne/auction-management)  
-[![Smart Plate App](https://img.shields.io/badge/GitHub-Smart_Plate_App-green?style=for-the-badge&logo=github)](https://github.com/mlswijerathne/smart-plate)  
-[![Jade Restaurant UI/UX](https://img.shields.io/badge/GitHub-Jade_Restaurant_UIX-orange?style=for-the-badge&logo=github)](https://github.com/mlswijerathne/jade-review)  
-
----
-
-## 🔄 Auto-Update Recent Projects (GitHub Actions)  
-To automatically update recent projects in your profile, add the following GitHub Actions workflow:
-
-### 📌 **Create a file:** `.github/workflows/update-readme.yml`
-```yaml
-name: Update Recent Projects in README
-
-on:
-  schedule:
-    - cron: "0 0 * * *" # Runs daily
-  workflow_dispatch:
-
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
-        
-      - name: Fetch Recent Repos
-        uses: Readme-Workflows/recent-activity@v2.1.0
-        with:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          MAX_REPOS: 5
-
-      - name: Commit and Push Changes
-        run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git add README.md
-          git commit -m "Updated recent projects" || echo "No changes"
-          git push
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mlswijerathne&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+</p>
