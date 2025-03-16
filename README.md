@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Lakshitha Wijerathne!  
 
 ## 🌍 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshitha-wijerathne)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mlswijerathne)  
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lakshithaa)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mlswijerathne@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/lakshitha-wijerathne)  
+🐱 [GitHub](https://github.com/mlswijerathne)  
+📝 [Medium](https://medium.com/@lakshithaa)  
+📧 [Email](mailto:mlswijerathne@gmail.com)  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mlswijerathne&label=Profile%20Views&color=blue&style=flat)  
 
@@ -43,4 +43,4 @@
 
 ---
 
-💡 *"Code is like humor. When you have to explain it, it’s bad."* - *Cory House*  
+💡 *"Code is like humor. When you have to explain it, it’s bad."* - *Cory House*
