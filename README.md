@@ -1,9 +1,19 @@
 # 👋 Hi, I'm Lakshitha Wijerathne!  
-🚀 Passionate about software development, mobile applications, and web technologies.  
-💻 Skilled in C, C#, Java, Dart, React.js, ASP.NET, and Flutter.  
-🌱 Currently learning **Flutter & Firebase** to enhance mobile development skills.  
+
+## 🌍 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshitha-wijerathne)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mlswijerathne)  
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lakshithaa)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mlswijerathne@gmail.com)  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mlswijerathne&label=Profile%20Views&color=blue&style=flat)  
+
+---
+
+## 🚀 About Me  
+💻 Passionate about software development, mobile applications, and web technologies.  
+💡 Skilled in **C, C#, Java, Dart, React.js, ASP.NET, and Flutter**.  
+🌱 Currently learning **Flutter & Firebase** to enhance mobile development skills.  
 
 ---
 
@@ -18,6 +28,11 @@
 
 ---
 
+## ⏳ Weekly Coding Activity  
+![Lakshitha's Coding Time](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=radical)  
+
+---
+
 ## 🚀 Projects  
 
 ### 🛠 Web & Mobile Development  
@@ -25,14 +40,6 @@
 - **[Finance Management System](https://github.com/buildervortex/financeManagement.git)** – Developed secure API integration using **ASP.NET Core**.  
 - **[Food Order App](https://github.com/mlswijerathne/food-order-app.git)** – Mobile food ordering app using **Flutter & Firebase**.  
 - **[Flutter Firebase Authentication](https://github.com/mlswijerathne/Flutter-Firebase-Authentication.git)** – Authentication system supporting **email/password & Google Sign-In** with Firebase.  
-
----
-
-## 🤝 Connect with Me  
-📧 Email: **mlswijerathne@gmail.com**  
-🔗 LinkedIn: [Lakshitha Wijerathne](https://www.linkedin.com/in/lakshitha-wijerathne)  
-🐙 GitHub: [mlswijerathne](https://github.com/mlswijerathne)  
-✍️ Medium: [@lakshithaa](https://medium.com/@lakshithaa)  
 
 ---
 
