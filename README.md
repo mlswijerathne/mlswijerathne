@@ -2,7 +2,7 @@
   
 # Lakshitha Wijerathne
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=435&lines=Software+Developer;Flutter+%26+Firebase+Enthusiast;Mobile+App+Specialist;Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=435&lines=Data+Science+Enthusiast;Full+Stack+Web+Developer;AI+ML+Enthusiast;Mobile+App+Specialist;)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" width="100%"/>
 
@@ -39,26 +39,27 @@
 
 ```jsx
 const Lakshitha = () => {
-  const [focus, setFocus] = useState("Flutter & Firebase");
+  const [focus, setFocus] = useState("Data Science & Full Stack Development");
   const [coffee, setCoffee] = useState(true);
-  
+
   useEffect(() => {
     while(coffee) {
       code();
     }
   }, [coffee]);
-  
+
   return (
     <Developer
       type="Full-Stack"
-      specialization="Mobile Development"
-      currentlyLearning="Advanced State Management"
-      languages={["C", "C#", "Java", "Dart", "JavaScript", "TypeScript"]}
-      architectures={["MVC", "MVVM", "Clean Architecture"]}
+      specialization="Mobile & Web Application Development"
+      currentlyLearning="Advanced Data Science Concepts"
+      languages={["Java", "C", "C#", "Python"]}
+      frameworks={["ASP.NET", "Python Flask", "React", "Flutter", "Firebase"]}
       funFact="I debug with console.logs and refuse to remove them 'just in case'"
     />
   );
 };
+
 ```
 
 ## 📊 GitHub Stats
