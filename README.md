@@ -27,7 +27,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mlswijerathne&style=for-the-badge&color=6C63FF" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=lakshitha-dev&style=for-the-badge&color=6C63FF" alt="profile views" />
 </div>
 
 <br/>
@@ -114,17 +114,17 @@ I started writing code in 2022 and have spent the years since shipping productio
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/mlswijerathne">
-    <img src="https://github-stats-alpha.vercel.app/api?username=mlswijerathne&cc=0d1117&tc=6C63FF&ic=fff&bc=0d1117" alt="GitHub Stats" />
+  <a href="https://github.com/lakshitha-dev">
+    <img src="https://github-stats-alpha.vercel.app/api?username=lakshitha-dev&cc=0d1117&tc=6C63FF&ic=fff&bc=0d1117" alt="GitHub Stats" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mlswijerathne&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=F1A11E&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F1A11E&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshitha-dev&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=F1A11E&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F1A11E&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlswijerathne&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=6C63FF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshitha-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=6C63FF" />
 </div>
 
 ## ⚡ Weekly Coding
@@ -138,25 +138,25 @@ I started writing code in 2022 and have spent the years since shipping productio
 *My commit history as an isometric 3D city — rebuilt automatically every night. Taller towers = busier weeks.*
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mlswijerathne/mlswijerathne/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution skyline" width="100%" />
+  <img src="https://raw.githubusercontent.com/lakshitha-dev/lakshitha-dev/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution skyline" width="100%" />
 </div>
 
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/mlswijerathne/travel-plan-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mlswijerathne&repo=travel-plan-platform&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=6C63FF&icon_color=F1A11E" />
+  <a href="https://github.com/lakshitha-dev/travel-plan-platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lakshitha-dev&repo=travel-plan-platform&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=6C63FF&icon_color=F1A11E" />
   </a>
-  <a href="https://github.com/mlswijerathne/n8n-medium-article-generator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mlswijerathne&repo=n8n-medium-article-generator&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=6C63FF&icon_color=F1A11E" />
+  <a href="https://github.com/lakshitha-dev/n8n-medium-article-generator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lakshitha-dev&repo=n8n-medium-article-generator&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=6C63FF&icon_color=F1A11E" />
   </a>
 </div>
 <div align="center">
-  <a href="https://github.com/mlswijerathne/AuctionManagement">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mlswijerathne&repo=AuctionManagement&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=6C63FF&icon_color=F1A11E" />
+  <a href="https://github.com/lakshitha-dev/AuctionManagement">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lakshitha-dev&repo=AuctionManagement&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=6C63FF&icon_color=F1A11E" />
   </a>
-  <a href="https://github.com/mlswijerathne/Waste-Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mlswijerathne&repo=Waste-Management-System&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=6C63FF&icon_color=F1A11E" />
+  <a href="https://github.com/lakshitha-dev/Waste-Management-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lakshitha-dev&repo=Waste-Management-System&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=6C63FF&icon_color=F1A11E" />
   </a>
 </div>
 
