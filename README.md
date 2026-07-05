@@ -167,12 +167,6 @@ I started writing code in 2022 and have spent the years since shipping productio
 - 🐳 **Docker Training Course** & **Prompt Engineering 101** — KodeKloud
 - 🏆 **5th Place — Duothan 5.0 Hackathon** — NSBM Green University · IEEE *(team 404_NOTFOUND)*
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mlswijerathne&theme=algolia&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
 ---
 
 <div align="center">
