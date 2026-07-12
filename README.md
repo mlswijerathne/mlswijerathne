@@ -133,12 +133,10 @@ I started writing code in 2022 and have spent the years since shipping productio
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mlswijerathne&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=6C63FF" alt="Wakatime Stats" />
 </div>
 
-## 🏙️ 3D Contribution Skyline
-
-*My commit history as an isometric 3D city — rebuilt automatically every night. Taller towers = busier weeks.*
+## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/lakshitha-dev/lakshitha-dev/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution skyline" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshitha-dev&bg_color=0D1117&color=FFFFFF&line=39d353&point=26a641&area=true&hide_border=true" alt="Contribution graph" width="100%" />
 </div>
 
 ## 🌟 Featured Projects
