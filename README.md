@@ -133,12 +133,6 @@ I started writing code in 2022 and have spent the years since shipping productio
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mlswijerathne&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=6C63FF" alt="Wakatime Stats" />
 </div>
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/lakshitha-dev" alt="Contribution graph" width="100%" />
-</div>
-
 ## 🌟 Featured Projects
 
 <div align="center">
